@@ -19,12 +19,12 @@ as independently verified performance results, endorsements, publication
 records, patent grants, or deployment evidence.
 
 The eight source files are distinct by SHA-256. Their original names,
-Library identifiers, dimensions, byte sizes, Library timestamps, and hashes
+dimensions, byte sizes, Library timestamps, and hashes
 are recorded in the manifest. The relative times shown inside social-post
 screenshots are preserved as displayed and are not converted into exact
 publication dates.
 
-No item was withheld. IMG_9684.jpg includes visible language about
+All eight source files supplied for this publication batch are included. IMG_9684.jpg includes visible language about
 “proprietary deterministic controls”; it is archived as an already-public
 post screenshot, with that language attributed to the source and without
 reproducing any additional or hidden proprietary material.

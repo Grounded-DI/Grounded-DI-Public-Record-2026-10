@@ -97,7 +97,7 @@ that framing; it is not independent evidence about a particular system.
 
 ## Provenance
 
-See [manifest.csv](manifest.csv) for original Library names and identifiers,
+See [manifest.csv](manifest.csv) for original Library names,
 Library timestamps, dimensions, byte sizes, and SHA-256 hashes. Run
 <code>shasum -a 256 -c SHA256SUMS</code> from this directory to verify the
 committed image bytes.
