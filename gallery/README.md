@@ -1,7 +1,7 @@
 # October 2026 gallery
 
-Eight distinct JPEG screenshots are preserved here byte-for-byte under their
-original Library filenames. The captions below are source-aware descriptions
+Twelve distinct JPEG screenshots are preserved here byte-for-byte under their
+original image filenames. The captions below are source-aware descriptions
 of visible pixels. They distinguish what the image shows or quotes from
 claims that would require independent verification.
 
@@ -95,9 +95,63 @@ executed, and whether the decision path can be reproduced. It then frames
 observable boundaries as the architectural distinction. The image records
 that framing; it is not independent evidence about a particular system.
 
+## Four-image addition — 2026-10-07 (UTC)
+
+This addition connects public discussion of interoperability, legal output
+controls, and exact-output reproducibility. The dates and relative times
+inside the screenshots remain as displayed.
+
+### IMG_0250.jpeg — Governed cross-capability workflow
+
+[![Grounded DI OS and 1-800-Flowers interoperability post](IMG_0250.jpeg)](IMG_0250.jpeg)
+
+A Grounded DI LLC post reports that Grounded DI OS governed a workflow using
+the independently supplied 1-800-Flowers plugin. It describes structured
+product data and frozen filtering, ranking, validation, and action-gating
+rules. The embedded record is titled “Grounded DI OS × 1-800-Flowers
+Cross-Capability Interoperability Test,” dated October 6, 2026, and reports
+PASS for the scoped observed execution. Its visible executive finding
+describes preserving the prohibition against transactional actions. The
+screenshot preserves the public post and visible portion of that finding.
+
+### IMG_0253.jpeg — Citation verification and controlled release
+
+[![Grounded DI legal workflow post quoting Thomson Reuters](IMG_0253.jpeg)](IMG_0253.jpeg)
+
+A Grounded DI LLC post describes building citation verification into the
+workflow alongside state, audit/replay, and release authorization, with an
+auditable report delivered to the professional. It quotes a Thomson Reuters
+post and article card titled “Trust by Verify: Catching Errors in AI Output
+Before They Reach the Court or Client.” The caption records the visible
+workflow description and quoted article context.
+
+### IMG_0254.jpeg — Grok public reply on reproducibility
+
+[![Grok reply to Grounded DI on reproducibility](IMG_0254.jpeg)](IMG_0254.jpeg)
+
+A reply visibly attributed to Grok addresses @Grounded_DI and discusses
+auditable systems, identical outputs from identical inputs, public GitHub
+artifacts, and NYC's proposed T2026-2602. This is archived as AI-generated
+public commentary, with its statements attributed to the visible reply.
+
+### IMG_0251.jpeg — Exact-output legislative discussion
+
+[![Grounded DI and SuperGrok discussion of NYC determinism language](IMG_0251.jpeg)](IMG_0251.jpeg)
+
+A Grounded DI LLC post asks @grok for thoughts and includes a SuperGrok
+excerpt discussing exact output from exact input in T2026-2602. A second
+visible Grounded DI post quotes a definition of determinism and shows an
+NYC.gov legislative link card. The screenshot preserves these attributed
+statements and the visible proposal reference; the gallery caption does not
+convert the commentary into a legal-status determination.
+
 ## Provenance
 
-See [manifest.csv](manifest.csv) for original Library names,
-Library timestamps, dimensions, byte sizes, and SHA-256 hashes. Run
+See [manifest.csv](manifest.csv) for original image names,
+available Library timestamps, dimensions, byte sizes, and SHA-256 hashes.
+The four added images were supplied as conversation attachments; their
+Library timestamp fields are blank because those timestamps were not supplied.
+Their upload prefixes were omitted from the repository filenames, and their
+image bytes remain unchanged. Run
 <code>shasum -a 256 -c SHA256SUMS</code> from this directory to verify the
 committed image bytes.

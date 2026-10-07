@@ -1,8 +1,9 @@
 # Grounded-DI Public Record — October 2026
 
 This repository is the October 2026 public record for Grounded DI LLC. It
-preserves eight JPEG screenshots supplied from ChatGPT Library on 2026-10-02,
-with the original Library filenames retained under [gallery/](gallery/).
+preserves twelve JPEG screenshots: eight supplied from ChatGPT Library on
+2026-10-02 and four uploaded for the 2026-10-07 gallery addition (UTC).
+Original image filenames are retained under [gallery/](gallery/).
 
 Start here:
 
@@ -18,13 +19,15 @@ inside a screenshot are attributed to the visible source; they are not treated
 as independently verified performance results, endorsements, publication
 records, patent grants, or deployment evidence.
 
-The eight source files are distinct by SHA-256. Their original names,
-dimensions, byte sizes, Library timestamps, and hashes
+The twelve source files are distinct by SHA-256. Their original names,
+dimensions, byte sizes, available Library timestamps, and hashes
 are recorded in the manifest. The relative times shown inside social-post
 screenshots are preserved as displayed and are not converted into exact
 publication dates.
 
-All eight source files supplied for this publication batch are included. IMG_9684.jpg includes visible language about
+All eight source files from the initial publication batch remain unchanged.
+The four-image addition records interoperability, legal output controls, and
+public discussion of exact-output determinism. IMG_9684.jpg includes visible language about
 “proprietary deterministic controls”; it is archived as an already-public
 post screenshot, with that language attributed to the source and without
 reproducing any additional or hidden proprietary material.
@@ -41,3 +44,7 @@ reproducing any additional or hidden proprietary material.
 | [IMG_9685.jpg](gallery/IMG_9685.jpg) | A social-feed screenshot with an accounting-task card and a reply about legal-AI progress. |
 | [IMG_9686.jpg](gallery/IMG_9686.jpg) | A Grounded DI LLC post with an Above the Law link card and a statement about auditable legal tools. |
 | [IMG_9687.jpg](gallery/IMG_9687.jpg) | A quote-and-response screenshot centered on observable decision boundaries and replay. |
+| [IMG_0250.jpeg](gallery/IMG_0250.jpeg) | A Grounded DI post and embedded October 6 interoperability finding involving the 1-800-Flowers plugin. |
+| [IMG_0253.jpeg](gallery/IMG_0253.jpeg) | A Grounded DI post about citation verification and release authorization, quoting a Thomson Reuters article card. |
+| [IMG_0254.jpeg](gallery/IMG_0254.jpeg) | A visible Grok reply discussing Grounded DI, reproducibility, and NYC's proposed T2026-2602. |
+| [IMG_0251.jpeg](gallery/IMG_0251.jpeg) | Grounded DI posts and a SuperGrok excerpt discussing the proposed NYC exact-input/exact-output definition. |
