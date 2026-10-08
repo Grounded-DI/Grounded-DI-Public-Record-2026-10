@@ -15,6 +15,8 @@ Start here:
 
 - [October 7 — DIA execution-control architecture and USPTO allowance](https://github.com/Grounded-DI/Deterministic-Intelligence-2026-/blob/60cf4e80ec89088b5d0e8be054463fa25ce68e54/announcements/2026-10-07-DIA-Deterministic-Execution-Control-USPTO-Allowance.md): Application No. 19/716,065; all 30 claims allowed; patent not yet issued as of the announcement.
 
+- [October 8 — RH beta–delta interface audit update](https://github.com/Grounded-DI/Grounded-DI-Riemann_Hypothesis_Research_Moving-Endpoint_Obstruction_to_Global_Second-Tail_Positivity/blob/6da7b21c572d8e382a32c65866fa225e0d558182/updates/2026-10-08-beta-delta-interface/README.md): source-attributed update and the single X-post image, maintained with the RH research record; this link is outside the existing 12-image gallery.
+
 ## Scope and editorial notes
 
 The gallery captions describe what is visibly present in each screenshot:
