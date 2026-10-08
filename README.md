@@ -11,6 +11,10 @@ Start here:
 - [Review the provenance and SHA-256 manifest](gallery/manifest.csv)
 - [Verify the recorded bytes with SHA-256](gallery/SHA256SUMS)
 
+## Related October record (outside the gallery)
+
+- [October 7 — DIA execution-control architecture and USPTO allowance](https://github.com/Grounded-DI/Deterministic-Intelligence-2026-/blob/60cf4e80ec89088b5d0e8be054463fa25ce68e54/announcements/2026-10-07-DIA-Deterministic-Execution-Control-USPTO-Allowance.md): Application No. 19/716,065; all 30 claims allowed; patent not yet issued as of the announcement.
+
 ## Scope and editorial notes
 
 The gallery captions describe what is visibly present in each screenshot:
