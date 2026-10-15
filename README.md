@@ -1,8 +1,8 @@
 # Grounded-DI Public Record — October 2026
 
-This repository is the October 2026 public record for Grounded DI LLC. It
-preserves twelve JPEG screenshots: eight supplied from ChatGPT Library on
-2026-10-02 and four uploaded for the 2026-10-07 gallery addition (UTC).
+This repository is the October 2026 public record for Grounded DI LLC. Its
+original gallery preserves twelve JPEG screenshots: eight supplied from ChatGPT
+Library on 2026-10-02 and four uploaded for the 2026-10-07 gallery addition (UTC).
 Original image filenames are retained under [gallery/](gallery/).
 
 Start here:
@@ -16,6 +16,10 @@ Start here:
 - [October 7 — DIA execution-control architecture and USPTO allowance](https://github.com/Grounded-DI/Deterministic-Intelligence-2026-/blob/60cf4e80ec89088b5d0e8be054463fa25ce68e54/announcements/2026-10-07-DIA-Deterministic-Execution-Control-USPTO-Allowance.md): Application No. 19/716,065; all 30 claims allowed; patent not yet issued as of the announcement.
 
 - [October 8 — RH beta–delta interface audit update](https://github.com/Grounded-DI/Grounded-DI-Riemann_Hypothesis_Research_Moving-Endpoint_Obstruction_to_Global_Second-Tail_Positivity/blob/6da7b21c572d8e382a32c65866fa225e0d558182/updates/2026-10-08-beta-delta-interface/README.md): source-attributed update and the single X-post image, maintained with the RH research record; this link is outside the existing 12-image gallery.
+
+## October 14 — Visual exhibits and Merkle-tree audit
+
+The [October 14 public-record update](updates/2026-10-14/README.md) preserves seven additional screenshots with captions and hashes, plus a Claude Sonnet 5.5 Merkle-tree evaluation report and replay package. The report records measured RFC-core successes alongside two reproduced API/concurrency limitations and a production-readiness hold. These are bounded findings for one artifact and one visible exchange, not a general model benchmark or security certification. The existing 12-image gallery above remains intact.
 
 ## Scope and editorial notes
 

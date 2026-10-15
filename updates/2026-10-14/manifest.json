@@ -1,0 +1,107 @@
+{
+  "package": "grounded_di_public_record_update_2026_10_14",
+  "created_utc": "2026-10-14T23:55:36.739665+00:00",
+  "repository_url": "https://github.com/Grounded-DI/Grounded-DI-Public-Record-2026-10",
+  "purpose": "Dated public-record update with screenshots, technical audit artifacts, captions, and file hashes.",
+  "scope_note": "A hash or screenshot preserves file identity or visible public material; it does not independently verify every statement inside an artifact.",
+  "images": [
+    {
+      "source_file": "IMG_1554.jpeg",
+      "repository_file": "images/01_x_quick_audit_gemini_argon_static_review.jpeg",
+      "bytes": 802762,
+      "sha256": "31b8aa200632082267e436cd99534006b1a2e6bdd50de1fcafaf684b47d5bc58",
+      "caption": "Screenshot of a Grounded DI LLC X post titled “Grounded DI OS 🔵 — Quick Audit of Probabilistic Gemini Argon,” showing a quoted Argon assessment and an image card reading “Final audit disposition,” including “Prototype: Pass,” “Cryptographic assurance: Fail,” and a release recommendation not to use the prototype as a trusted production audit ledger without additional controls.",
+      "role": "public-record screenshot / visual exhibit",
+      "non_claim": "This screenshot records visible public-facing material; it does not independently verify every statement depicted inside the image."
+    },
+    {
+      "source_file": "IMG_1555.jpeg",
+      "repository_file": "images/02_nadella_principles_grounded_di2_alignment_table.jpeg",
+      "bytes": 849097,
+      "sha256": "06ff973f3669070323006808a527bad1c8d1c2902332cc248ee765b4b6d2a7cc",
+      "caption": "Screenshot of a table comparing “Nadella’s principle” with “Grounded DI² counterpart” and “Alignment,” including model diversity, observation, verifiability, independent controls, independent auditability, and containment.",
+      "role": "public-record screenshot / visual exhibit",
+      "non_claim": "This screenshot records visible public-facing material; it does not independently verify every statement depicted inside the image."
+    },
+    {
+      "source_file": "IMG_1556.jpeg",
+      "repository_file": "images/03_x_standards_for_review_professional_organizations.jpeg",
+      "bytes": 483827,
+      "sha256": "d86c77f0898c84a41b5c31b1cec5f1402976acd344edc14217430999b3648941",
+      "caption": "Screenshot of a Grounded DI LLC X post stating that professional organizations do not have to compete with AI production capacity and can set conditions for AI-generated work to become eligible for professional review, with an accompanying “Standards for Review” image.",
+      "role": "public-record screenshot / visual exhibit",
+      "non_claim": "This screenshot records visible public-facing material; it does not independently verify every statement depicted inside the image."
+    },
+    {
+      "source_file": "IMG_1557.jpeg",
+      "repository_file": "images/04_x_mathwise_di2_auditable_math_intro.jpeg",
+      "bytes": 467653,
+      "sha256": "05418e12184a02fee5b9e84bc0413c4e42584e1614b46178b87d06f52f8cf294",
+      "caption": "Screenshot of a Grounded DI LLC X post introducing MathWise DI² as a proprietary OS intended to refuse to guess and support rigorous, deterministic, verifiable LLM proof work so domain experts can do their jobs, noting a 67-prompt confirmation workflow.",
+      "role": "public-record screenshot / visual exhibit",
+      "non_claim": "This screenshot records visible public-facing material; it does not independently verify every statement depicted inside the image."
+    },
+    {
+      "source_file": "IMG_1558.jpeg",
+      "repository_file": "images/05_x_mathwise_rh067_replay_obstruction_certificate.jpeg",
+      "bytes": 623291,
+      "sha256": "e349323d7e8a954f3903bcbfbeaa8fe845f2da25c556d32370dc3dd3f59ba89a",
+      "caption": "Screenshot of a Grounded DI LLC X post titled “MathWise 🔵 — Auditable Replay Obstruction Certificate | 7/8 Zero-Free Extension,” showing certificate pages labeled RH-067 and “Proof-Path Crack Replay Certificate.”",
+      "role": "public-record screenshot / visual exhibit",
+      "non_claim": "This screenshot records visible public-facing material; it does not independently verify every statement depicted inside the image."
+    },
+    {
+      "source_file": "IMG_1561.jpeg",
+      "repository_file": "images/06_x_riemann_beta_delta_audit_google_ai_overview.jpeg",
+      "bytes": 742644,
+      "sha256": "0e139349553cfaf32d5aac0ab9c3384370fd012ac515b044302970eb99a6b90d",
+      "caption": "Screenshot of a Grounded DI LLC X post titled “Riemann Hypothesis Beta-Delta Replay Obstruction Certificate Audit,” showing a Google AI Overview-style card that includes the scope statement “It does not claim a proof or disproof of the Riemann Hypothesis.”",
+      "role": "public-record screenshot / visual exhibit",
+      "non_claim": "This screenshot records visible public-facing material; it does not independently verify every statement depicted inside the image."
+    },
+    {
+      "source_file": "IMG_1562.jpeg",
+      "repository_file": "images/07_x_deterministic_replay_certificates_github_repo.jpeg",
+      "bytes": 975681,
+      "sha256": "db860ba7a5ac3704e7192f185b5dc6820366d16b9565da85d5efd3c82ceeb3d7",
+      "caption": "Screenshot of a Grounded DI LLC X post stating that deterministic proof-path replay certificates and source-level audit records are not Lean-kernel-verified unless explicitly stated, with an accompanying GitHub repository screenshot titled “MathWise Deterministic Replay Certificates.”",
+      "role": "public-record screenshot / visual exhibit",
+      "non_claim": "This screenshot records visible public-facing material; it does not independently verify every statement depicted inside the image."
+    }
+  ],
+  "technical_artifacts": [
+    {
+      "source_file": "Claude_Sonnet_5_5_Independent_Code_Self_Audit_Report.pdf",
+      "repository_file": "technical_artifacts/claude_sonnet_5_5_independent_code_self_audit_report.pdf",
+      "bytes": 102031,
+      "sha256": "174705c0251563cfb46b4355134a4f72cdf33502b22187910d5d2db0f0fff55e",
+      "description": "Technical evaluation report for Claude Sonnet 5.5 RFC 6962/9162 Merkle-tree implementation and self-audit record.",
+      "role": "technical audit artifact"
+    },
+    {
+      "source_file": "Claude_Sonnet_5_5_Audit_Replay_Package.zip",
+      "repository_file": "technical_artifacts/claude_sonnet_5_5_audit_replay_package.zip",
+      "bytes": 105868,
+      "sha256": "07c2c18aacb39e1d4280b6012f67dc10bccc6cba1f4487e9dd70edc996d8abf2",
+      "description": "Replay package associated with the Claude Sonnet 5.5 Merkle-tree audit.",
+      "role": "technical audit artifact"
+    }
+  ],
+  "text_artifacts": [
+    {
+      "file": "CLAUDE_AUDIT_README.md",
+      "bytes": 2101,
+      "sha256": "81f65bf647d7b05f0e5e113be6df01e53e85c60839a4c2b9d8f22ca02481199a"
+    },
+    {
+      "file": "PHOTO_EXHIBITS.md",
+      "bytes": 7566,
+      "sha256": "4b360b162f4999c86c7979d96971bf35b18c523c824f8f01cf9c487c09d2c976"
+    },
+    {
+      "file": "README.md",
+      "bytes": 8168,
+      "sha256": "174f617d9e866e4951466a4a6118d2f5c051d05a46fb73695f94af3ec0801447"
+    }
+  ]
+}
