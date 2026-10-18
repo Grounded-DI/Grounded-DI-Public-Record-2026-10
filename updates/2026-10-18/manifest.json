@@ -1,0 +1,14 @@
+{
+  "publication_batch": "2026-10-18",
+  "artifacts": [
+    {
+      "item": 1,
+      "path": "images/IMG_2407.jpeg",
+      "original_filename": "IMG_2407.jpeg",
+      "sha256": "0b8a541c377ecf7bccc7ae646d39bf58400a18efdc3e829bd98e3cdb097029eb",
+      "bytes": 279969,
+      "source": "User-supplied attachment",
+      "preservation": "Unmodified supplied bytes"
+    }
+  ]
+}

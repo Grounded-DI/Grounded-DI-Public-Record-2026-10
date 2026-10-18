@@ -21,6 +21,10 @@ Start here:
 
 The [October 14 public-record update](updates/2026-10-14/README.md) preserves seven additional screenshots with captions and hashes, plus a Claude Sonnet 5.5 Merkle-tree evaluation report and replay package. The report records measured RFC-core successes alongside two reproduced API/concurrency limitations and a production-readiness hold. These are bounded findings for one artifact and one visible exchange, not a general model benchmark or security certification. The existing 12-image gallery above remains intact.
 
+## October 18 — Public statements and visual/model-behavior audits
+
+The [October 18 update](updates/2026-10-18/README.md) preserves five public-post screenshots and two illustrated reports: a toy-castle image-preservation audit and a Gemini Argon model-behavior incident report. Each item has a source-specific caption or report summary, with original filenames, preserved bytes, and SHA-256 records. The update distinguishes reported replay results, observed output inconsistencies, and findings that remain untested or unresolved.
+
 ## Scope and editorial notes
 
 The gallery captions describe what is visibly present in each screenshot:
