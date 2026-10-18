@@ -8,6 +8,7 @@ The original filenames and file bytes are retained. The date in this directory i
 
 - [1. Regulation should answer to evidence](#1-regulation-should-answer-to-evidence)
 - [2. Small developers and frontier-model governance](#2-small-developers-and-frontier-model-governance)
+- [3. Public evidence books as an inspection path](#3-public-evidence-books-as-an-inspection-path)
 
 ## 1. Regulation should answer to evidence
 
@@ -26,6 +27,14 @@ A Grounded DI reply to Zack Korman questions the omission of a “small frontier
 This exhibit records the public exchange. The selected legislative excerpts are not a complete bill or a legal analysis; the embedded benchmark statement remains attributed to its source.
 
 ![Small developers and frontier-model governance](images/IMG_2405.jpeg)
+
+## 3. Public evidence books as an inspection path
+
+[Open the image](images/IMG_2404.jpeg)
+
+A Grounded DI LLC post directs readers to the START_HERE_DI_EXHIBIT collection of technical, governance, audit, and supporting evidence materials. Its message is that assumptions and conclusions should be checked against an inspectable record. The screenshot preserves the post and repository preview; it does not reproduce the linked evidence books.
+
+![Public evidence books as an inspection path](images/IMG_2404.jpeg)
 
 ## Provenance and integrity
 
