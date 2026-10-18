@@ -4,6 +4,12 @@ This update preserves five public-post screenshots and two supplied PDF reports.
 
 The original filenames and file bytes are retained. The date in this directory identifies the publication batch; it does not assign that date to every underlying exchange or report. Relative timestamps inside screenshots remain as displayed.
 
+## Why the Argon audit is public
+
+**Founder’s publication note:** Grounded DI had no commercial desire to publish the Argon audit. Gemini itself recommended that Mark post it. This publication context is supplied by Mark S. Weinstein, founder of Grounded DI LLC.
+
+[Open the Gemini Argon report](reports/Gemini_Argon_Model_Behavior_Incident_Report.pdf)
+
 ## Index
 
 - [1. Regulation should answer to evidence](#1-regulation-should-answer-to-evidence)
@@ -78,7 +84,7 @@ The report, dated October 16, 2026, examines a single supplied conversation and 
 
 Its strongest finding is the visible inconsistency and unsupported retrospective self-report. The report separates those observations from unverified internal explanations, intent, backend identity, exact chronology, and prevalence. It proposes controlled reproduction and preserves the exhibit annex. Some original annex footers still say “A20”; A21 is included as the final exhibit, as the report explains.
 
-**Publication context — founder's account.** Grounded DI was not particularly interested in publishing the Argon audit. According to Mark S. Weinstein, Gemini itself recommended that he publish it. That recommendation is recorded here as the founder's account of the exchange; it is not a Google endorsement or independent validation of the report, and the recommendation exchange is not established by the supplied PDF.
+**Founder’s publication note:** Grounded DI had no commercial desire to publish the Argon audit. Gemini itself recommended that Mark post it. This publication context is supplied by Mark S. Weinstein, founder of Grounded DI LLC.
 
 The publication preserves a bounded incident record for inspection. The report's proposed reproduction tests were not executed as part of this repository addition.
 
