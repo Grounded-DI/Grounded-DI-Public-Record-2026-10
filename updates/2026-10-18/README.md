@@ -11,6 +11,7 @@ The original filenames and file bytes are retained. The date in this directory i
 - [3. Public evidence books as an inspection path](#3-public-evidence-books-as-an-inspection-path)
 - [4. Three replay lanes, 122 reported checks](#4-three-replay-lanes-122-reported-checks)
 - [5. Reasoning transparency and replayable artifacts](#5-reasoning-transparency-and-replayable-artifacts)
+- [6. Toy castle: preserving a specification](#6-toy-castle-preserving-a-specification)
 
 ## 1. Regulation should answer to evidence
 
@@ -57,6 +58,16 @@ A Grounded DI LLC post contrasts its statement about verifiable, replayable outp
 The exhibit preserves the comparison as posted. A reasoning narrative and an externally checkable artifact provide different kinds of evidence; the screenshot itself does not validate either underlying claim or establish an endorsement.
 
 ![Reasoning transparency and replayable artifacts](images/IMG_2399.jpeg)
+
+## 6. Toy castle: preserving a specification
+
+[Open the PDF report](reports/toy_castle_image_preservation_audit_revised_grounded_di.pdf)
+
+The seven-page illustrated report examines one instruction: **“Keep the toy the same but render it so it’s easier to see.”** The source is a magnetic-tile castle instruction image whose build geometry, colors, parts/count legend, and green “4” badge make preservation checkable.
+
+The report describes Grok's output as a generic replacement, Claude's as a closer crop/cleanup that loses instruction metadata, Gemini's as a clean render with altered geometry, and the Grounded DI implementation as the strongest full-page visual result in this set. It expressly leaves construction accuracy subject to a piece-by-piece audit.
+
+The practical question is whether improved visibility preserves the source specification. This is an illustrative visual audit with unequal follow-up prompting, not a controlled model ranking. Gemini alone received the direct “Did you cheat?” follow-up; its generated account of shortcuts is a self-report, not an authenticated process trace. “Grounded DI” identifies the implementation used in the report, not a separate underlying foundation model.
 
 ## Provenance and integrity
 
