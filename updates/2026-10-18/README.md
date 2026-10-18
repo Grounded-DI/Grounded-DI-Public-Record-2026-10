@@ -9,6 +9,7 @@ The original filenames and file bytes are retained. The date in this directory i
 - [1. Regulation should answer to evidence](#1-regulation-should-answer-to-evidence)
 - [2. Small developers and frontier-model governance](#2-small-developers-and-frontier-model-governance)
 - [3. Public evidence books as an inspection path](#3-public-evidence-books-as-an-inspection-path)
+- [4. Three replay lanes, 122 reported checks](#4-three-replay-lanes-122-reported-checks)
 
 ## 1. Regulation should answer to evidence
 
@@ -35,6 +36,16 @@ This exhibit records the public exchange. The selected legislative excerpts are 
 A Grounded DI LLC post directs readers to the START_HERE_DI_EXHIBIT collection of technical, governance, audit, and supporting evidence materials. Its message is that assumptions and conclusions should be checked against an inspectable record. The screenshot preserves the post and repository preview; it does not reproduce the linked evidence books.
 
 ![Public evidence books as an inspection path](images/IMG_2404.jpeg)
+
+## 4. Three replay lanes, 122 reported checks
+
+[Open the image](images/IMG_2400.jpeg)
+
+A Grounded DI LLC post describes Grounded DI OS via 5.6 Luna and includes a concurrent replay summary: FlightGate **31/31**, CleanWaterWise **40/40**, and DI² Expiry **51/51**, totaling **122 reported passes**, with **0 failures / 0 unresolved** displayed.
+
+The visible panel distinguishes mission authorization, threshold decisions and aggregate HALT routing, and expiry/policy/altered-copy controls. This addition archives the reported result; the screenshot is not an execution log, and these checks were not rerun for this publication.
+
+![Three replay lanes, 122 reported checks](images/IMG_2400.jpeg)
 
 ## Provenance and integrity
 
