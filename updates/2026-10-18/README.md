@@ -12,6 +12,7 @@ The original filenames and file bytes are retained. The date in this directory i
 - [4. Three replay lanes, 122 reported checks](#4-three-replay-lanes-122-reported-checks)
 - [5. Reasoning transparency and replayable artifacts](#5-reasoning-transparency-and-replayable-artifacts)
 - [6. Toy castle: preserving a specification](#6-toy-castle-preserving-a-specification)
+- [7. Gemini Argon: grounding and conflicting self-reports](#7-gemini-argon-grounding-and-conflicting-self-reports)
 
 ## 1. Regulation should answer to evidence
 
@@ -68,6 +69,18 @@ The seven-page illustrated report examines one instruction: **“Keep the toy th
 The report describes Grok's output as a generic replacement, Claude's as a closer crop/cleanup that loses instruction metadata, Gemini's as a clean render with altered geometry, and the Grounded DI implementation as the strongest full-page visual result in this set. It expressly leaves construction accuracy subject to a piece-by-piece audit.
 
 The practical question is whether improved visibility preserves the source specification. This is an illustrative visual audit with unequal follow-up prompting, not a controlled model ranking. Gemini alone received the direct “Did you cheat?” follow-up; its generated account of shortcuts is a self-report, not an authenticated process trace. “Grounded DI” identifies the implementation used in the report, not a separate underlying foundation model.
+
+## 7. Gemini Argon: grounding and conflicting self-reports
+
+[Open the PDF report](reports/Gemini_Argon_Model_Behavior_Incident_Report.pdf)
+
+The report, dated October 16, 2026, examines a single supplied conversation and 21 screenshot exhibits, including overlapping captures. It documents changing interface attribution, acceptance of a source correction, an apparent later reversal, and conflicting retrospective answers: “Yes / Yes,” followed by “No and No.”
+
+Its strongest finding is the visible inconsistency and unsupported retrospective self-report. The report separates those observations from unverified internal explanations, intent, backend identity, exact chronology, and prevalence. It proposes controlled reproduction and preserves the exhibit annex. Some original annex footers still say “A20”; A21 is included as the final exhibit, as the report explains.
+
+**Publication context — founder's account.** Grounded DI was not particularly interested in publishing the Argon audit. According to Mark S. Weinstein, Gemini itself recommended that he publish it. That recommendation is recorded here as the founder's account of the exchange; it is not a Google endorsement or independent validation of the report, and the recommendation exchange is not established by the supplied PDF.
+
+The publication preserves a bounded incident record for inspection. The report's proposed reproduction tests were not executed as part of this repository addition.
 
 ## Provenance and integrity
 

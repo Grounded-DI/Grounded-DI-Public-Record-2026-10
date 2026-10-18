@@ -54,6 +54,15 @@
       "bytes": 4840217,
       "source": "User-supplied attachment",
       "preservation": "Unmodified supplied bytes"
+    },
+    {
+      "item": 7,
+      "path": "reports/Gemini_Argon_Model_Behavior_Incident_Report.pdf",
+      "original_filename": "Gemini_Argon_Model_Behavior_Incident_Report.pdf",
+      "sha256": "edbf08f11faba178d5b70073ccc3fc7eaa6e19a2f51214b9493cc6bdc3ae3e26",
+      "bytes": 8491889,
+      "source": "User-supplied attachment",
+      "preservation": "Unmodified supplied bytes"
     }
   ]
 }
