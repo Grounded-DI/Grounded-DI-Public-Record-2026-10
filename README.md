@@ -23,6 +23,8 @@ The [October 14 public-record update](updates/2026-10-14/README.md) preserves se
 
 ## October 18 — Public statements and visual/model-behavior audits
 
+**Why the Argon audit is public:** Grounded DI had no commercial desire to publish it. Gemini itself recommended that Mark post it. Publication context supplied by founder Mark S. Weinstein.
+
 The [October 18 update](updates/2026-10-18/README.md) preserves five public-post screenshots and two illustrated reports: a toy-castle image-preservation audit and a Gemini Argon model-behavior incident report. Each item has a source-specific caption or report summary, with original filenames, preserved bytes, and SHA-256 records. The update distinguishes reported replay results, observed output inconsistencies, and findings that remain untested or unresolved.
 
 ## Scope and editorial notes
