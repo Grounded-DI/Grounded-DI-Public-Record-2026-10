@@ -36,6 +36,15 @@
       "bytes": 936064,
       "source": "User-supplied attachment",
       "preservation": "Unmodified supplied bytes"
+    },
+    {
+      "item": 5,
+      "path": "images/IMG_2399.jpeg",
+      "original_filename": "IMG_2399.jpeg",
+      "sha256": "c5240c3dfc14cc88f0bdec3eac87ec4f59084b5685b3a72326d0fe346da9012b",
+      "bytes": 873117,
+      "source": "User-supplied attachment",
+      "preservation": "Unmodified supplied bytes"
     }
   ]
 }

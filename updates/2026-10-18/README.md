@@ -10,6 +10,7 @@ The original filenames and file bytes are retained. The date in this directory i
 - [2. Small developers and frontier-model governance](#2-small-developers-and-frontier-model-governance)
 - [3. Public evidence books as an inspection path](#3-public-evidence-books-as-an-inspection-path)
 - [4. Three replay lanes, 122 reported checks](#4-three-replay-lanes-122-reported-checks)
+- [5. Reasoning transparency and replayable artifacts](#5-reasoning-transparency-and-replayable-artifacts)
 
 ## 1. Regulation should answer to evidence
 
@@ -46,6 +47,16 @@ A Grounded DI LLC post describes Grounded DI OS via 5.6 Luna and includes a conc
 The visible panel distinguishes mission authorization, threshold decisions and aggregate HALT routing, and expiry/policy/altered-copy controls. This addition archives the reported result; the screenshot is not an execution log, and these checks were not rerun for this publication.
 
 ![Three replay lanes, 122 reported checks](images/IMG_2400.jpeg)
+
+## 5. Reasoning transparency and replayable artifacts
+
+[Open the image](images/IMG_2399.jpeg)
+
+A Grounded DI LLC post contrasts its statement about verifiable, replayable outputs and artifacts with a quoted argument for monitoring AI reasoning. The capture includes a DeepMind Institute article preview titled “The case for reasoning transparency.”
+
+The exhibit preserves the comparison as posted. A reasoning narrative and an externally checkable artifact provide different kinds of evidence; the screenshot itself does not validate either underlying claim or establish an endorsement.
+
+![Reasoning transparency and replayable artifacts](images/IMG_2399.jpeg)
 
 ## Provenance and integrity
 
