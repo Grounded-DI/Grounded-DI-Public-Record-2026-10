@@ -64,3 +64,8 @@ reproducing any additional or hidden proprietary material.
 | [IMG_0253.jpeg](gallery/IMG_0253.jpeg) | A Grounded DI post about citation verification and release authorization, quoting a Thomson Reuters article card. |
 | [IMG_0254.jpeg](gallery/IMG_0254.jpeg) | A visible Grok reply discussing Grounded DI, reproducibility, and NYC's proposed T2026-2602. |
 | [IMG_0251.jpeg](gallery/IMG_0251.jpeg) | Grounded DI posts and a SuperGrok excerpt discussing the proposed NYC exact-input/exact-output definition. |
+
+
+## October 19 — AuthorWise redacted writing-sample diagnostic report
+
+The [October 19 update](updates/2026-10-19/README.md) preserves a five-page redacted AuthorWise DI² presentation derivative. It retains supplied unlabeled writing-sample shapes and aggregate exploratory results while withholding feature-axis labels, identifying legends, contribution values, decoder tables, raw writing, and source paths. The report remains explicitly inconclusive and makes no authorship, human-versus-AI, forensic, legal, employment, academic, publication-use, external-verification, or fresh-execution claim.

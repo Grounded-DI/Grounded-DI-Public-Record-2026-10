@@ -1,0 +1,22 @@
+{
+  "update_date": "2026-10-19",
+  "source_filename": "DI_AuthorWise_DI2_Redacted_Writing_Sample_Report.pdf",
+  "repository_filename": "DI_AuthorWise_DI2_Redacted_Writing_Sample_Report.pdf",
+  "title": "AuthorWise DI² - Redacted Writing-Sample Diagnostic Report",
+  "subject": "Unlabeled-shape presentation derivative",
+  "pages": 5,
+  "byte_size": 305113,
+  "sha256": "a6d931154eb020c2de4c1a4ff1ffadf49e263919c52b941dd85648a608ffcdc0",
+  "scope": "Redacted presentation derivative; exploratory and inconclusive.",
+  "non_claims": [
+    "No authorship finding",
+    "No human-versus-AI determination",
+    "No forensic, legal, employment, academic, or publication-use conclusion",
+    "No external verification or fresh engine execution"
+  ],
+  "source_metadata": {
+    "creator": "unspecified",
+    "producer": "ReportLab PDF Library - (opensource)",
+    "creation_date": "2026-10-19T08:35:31+02:00"
+  }
+}
