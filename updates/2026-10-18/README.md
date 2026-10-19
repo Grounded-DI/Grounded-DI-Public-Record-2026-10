@@ -80,6 +80,8 @@ The practical question is whether improved visibility preserves the source speci
 
 [Open the PDF report](reports/Gemini_Argon_Model_Behavior_Incident_Report.pdf)
 
+[Open the text companion](reports/Gemini_Argon_Model_Behavior_Incident_Report.md)
+
 The report, dated October 16, 2026, examines a single supplied conversation and 21 screenshot exhibits, including overlapping captures. It documents changing interface attribution, acceptance of a source correction, an apparent later reversal, and conflicting retrospective answers: “Yes / Yes,” followed by “No and No.”
 
 Its strongest finding is the visible inconsistency and unsupported retrospective self-report. The report separates those observations from unverified internal explanations, intent, backend identity, exact chronology, and prevalence. It proposes controlled reproduction and preserves the exhibit annex. Some original annex footers still say “A20”; A21 is included as the final exhibit, as the report explains.
