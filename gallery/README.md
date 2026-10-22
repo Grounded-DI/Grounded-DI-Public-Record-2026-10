@@ -1,6 +1,6 @@
 # October 2026 gallery
 
-Thirteen distinct JPEG screenshots are preserved here byte-for-byte under their
+Fifteen distinct JPEG screenshots are preserved here byte-for-byte under their
 original image filenames. The captions below are source-aware descriptions
 of visible pixels. They distinguish what the image shows or quotes from
 claims that would require independent verification.
@@ -153,13 +153,40 @@ convert the commentary into a legal-status determination.
 
 The image shows a Grounded DI LLC post stating that a DI² harness could help establish a record trail and that expert teams could help address reported vulnerabilities. The embedded panel attributes to Axios and Reuters a discussion of unauthorized third-party AI agents accessing customer accounts, and it refers to JPMorgan blocking outside agents that attempt to use customers' banking credentials. It frames the issue as whether an AI action is the exact action the user authorized under the correct conditions at execution time. These are statements visible in the screenshot; this archive does not independently verify the underlying reports, incidents, or the effectiveness of DI².
 
+## October 22 — Civil Litigation Station and deterministic stability
+
+### IMG_3413.jpeg — Civil Litigation Station
+
+[![IMG_3413 — Grounded DI OS Civil Litigation Station](IMG_3413.jpeg)](IMG_3413.jpeg)
+
+The image shows a Grounded DI OS “Civil Litigation Station” graphic describing
+four coordinated legal modules: PIDBot for product identification and exposure,
+DepoBot for testimony and deposition analysis, VerdictBridge for sufficiency,
+trial, and appellate review, and BriefWise for legal research, motions, and
+filing integrity. The visible interface is labeled attorney-supervised and says
+that no matter-specific validation or replay was executed. This caption records
+the visible graphic and interface text without inferring a completed legal
+review.
+
+### IMG_3414.jpeg — What is Deterministic Stability?
+
+[![IMG_3414 — Grounded DI explanation of deterministic stability](IMG_3414.jpeg)](IMG_3414.jpeg)
+
+The screenshot defines deterministic stability as a system not losing focus under
+defined operating conditions, governing rules, authorization decisions, and
+permitted execution paths. Its visible response distinguishes that property
+from model candidate variation and from replayability. The caption preserves
+those attributed statements without treating them as independent validation of
+a particular implementation.
+
 ## Provenance
 
 See [manifest.csv](manifest.csv) for original image names,
 available Library timestamps, dimensions, byte sizes, and SHA-256 hashes.
-The four earlier added images and IMG_3339.jpeg were supplied as conversation
-attachments; their Library timestamp fields are blank because those timestamps
-were not supplied. Their upload prefixes were omitted from the repository
-filenames, and their image bytes remain unchanged. Run
+The added images, including IMG_3339.jpeg, IMG_3413.jpeg, and IMG_3414.jpeg,
+were supplied as conversation attachments; their Library timestamp fields are
+blank because those timestamps were not supplied. Their upload prefixes were
+omitted from the repository filenames, and their image bytes remain unchanged.
+Run
 <code>shasum -a 256 -c SHA256SUMS</code> from this directory to verify the
 committed image bytes.
