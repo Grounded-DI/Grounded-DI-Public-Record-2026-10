@@ -1,8 +1,9 @@
 # Grounded-DI Public Record — October 2026
 
 This repository is the October 2026 public record for Grounded DI LLC. Its
-original gallery preserves twelve JPEG screenshots: eight supplied from ChatGPT
-Library on 2026-10-02 and four uploaded for the 2026-10-07 gallery addition (UTC).
+original gallery preserves thirteen JPEG screenshots: eight supplied from ChatGPT
+Library on 2026-10-02, four uploaded for the 2026-10-07 gallery addition (UTC),
+and one uploaded for the 2026-10-22 gallery addition (UTC).
 Original image filenames are retained under [gallery/](gallery/).
 
 Start here:
@@ -64,6 +65,7 @@ reproducing any additional or hidden proprietary material.
 | [IMG_0253.jpeg](gallery/IMG_0253.jpeg) | A Grounded DI post about citation verification and release authorization, quoting a Thomson Reuters article card. |
 | [IMG_0254.jpeg](gallery/IMG_0254.jpeg) | A visible Grok reply discussing Grounded DI, reproducibility, and NYC's proposed T2026-2602. |
 | [IMG_0251.jpeg](gallery/IMG_0251.jpeg) | Grounded DI posts and a SuperGrok excerpt discussing the proposed NYC exact-input/exact-output definition. |
+| [IMG_3339.jpeg](gallery/IMG_3339.jpeg) | Grounded DI LLC post and embedded discussion of unauthorized AI-agent access, user-authorized actions, and execution-time conditions. |
 
 
 ## October 19 — AuthorWise redacted writing-sample diagnostic report

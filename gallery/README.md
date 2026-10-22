@@ -1,6 +1,6 @@
 # October 2026 gallery
 
-Twelve distinct JPEG screenshots are preserved here byte-for-byte under their
+Thirteen distinct JPEG screenshots are preserved here byte-for-byte under their
 original image filenames. The captions below are source-aware descriptions
 of visible pixels. They distinguish what the image shows or quotes from
 claims that would require independent verification.
@@ -145,13 +145,21 @@ NYC.gov legislative link card. The screenshot preserves these attributed
 statements and the visible proposal reference; the gallery caption does not
 convert the commentary into a legal-status determination.
 
+## October 22 — Public AI-to-action authorization discussion
+
+### IMG_3339.jpeg — Action authorization and account access
+
+[![IMG_3339 — Grounded DI LLC post and embedded AI-to-action authorization discussion](IMG_3339.jpeg)](IMG_3339.jpeg)
+
+The image shows a Grounded DI LLC post stating that a DI² harness could help establish a record trail and that expert teams could help address reported vulnerabilities. The embedded panel attributes to Axios and Reuters a discussion of unauthorized third-party AI agents accessing customer accounts, and it refers to JPMorgan blocking outside agents that attempt to use customers' banking credentials. It frames the issue as whether an AI action is the exact action the user authorized under the correct conditions at execution time. These are statements visible in the screenshot; this archive does not independently verify the underlying reports, incidents, or the effectiveness of DI².
+
 ## Provenance
 
 See [manifest.csv](manifest.csv) for original image names,
 available Library timestamps, dimensions, byte sizes, and SHA-256 hashes.
-The four added images were supplied as conversation attachments; their
-Library timestamp fields are blank because those timestamps were not supplied.
-Their upload prefixes were omitted from the repository filenames, and their
-image bytes remain unchanged. Run
+The four earlier added images and IMG_3339.jpeg were supplied as conversation
+attachments; their Library timestamp fields are blank because those timestamps
+were not supplied. Their upload prefixes were omitted from the repository
+filenames, and their image bytes remain unchanged. Run
 <code>shasum -a 256 -c SHA256SUMS</code> from this directory to verify the
 committed image bytes.
