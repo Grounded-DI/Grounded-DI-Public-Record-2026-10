@@ -1,4 +1,4 @@
-# Grounded-DI Public Record — October 2026
+# Grounded-DI Public Record — October 2026 
 
 This repository is the October 2026 public record for Grounded DI LLC. Its
 original gallery preserves fifteen JPEG screenshots: eight supplied from ChatGPT
@@ -73,3 +73,5 @@ reproducing any additional or hidden proprietary material.
 ## October 19 — AuthorWise redacted writing-sample diagnostic report
 
 The [October 19 update](updates/2026-10-19/README.md) preserves a five-page redacted AuthorWise DI² presentation derivative. It retains supplied unlabeled writing-sample shapes and aggregate exploratory results while withholding feature-axis labels, identifying legends, contribution values, decoder tables, raw writing, and source paths. The report remains explicitly inconclusive and makes no authorship, human-versus-AI, forensic, legal, employment, academic, publication-use, external-verification, or fresh-execution claim.
+
+-Grounded DI LLC - "Precision doesn't infer. It traces." 
