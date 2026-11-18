@@ -20,7 +20,7 @@ Start here:
 
 ## October 14 — Visual exhibits and Merkle-tree audit
 
-The [October 14 public-record update](updates/2026-10-14/README.md) preserves seven additional screenshots with captions and hashes, plus a Claude Sonnet 5.5 Merkle-tree evaluation report and replay package. The report records measured RFC-core successes alongside two reproduced API/concurrency limitations and a production-readiness hold. These are bounded findings for one artifact and one visible exchange, not a general model benchmark or security certification. The existing gallery above remains intact.
+The [October 14 public-record update](updates/2026-10-14/README.md) preserves seven additional screenshots with captions and hashes, plus a Claude Sonnet 5.5 Merkle-tree evaluation report and replay package. The report records measured RFC-core successes alongside two reproduced API/concurrency limitations and a production-readiness hold. The evaluation covers the submitted artifact and the exchange documented in the update.
 
 ## October 18 — Public statements and visual/model-behavior audits
 
@@ -55,7 +55,7 @@ reproducing any additional or hidden proprietary material.
 | --- | --- |
 | [IMG_9680.jpg](gallery/IMG_9680.jpg) | A Grounded DI LLC post and an “Anthropic Interviewer” panel framing auditable, inspectable reliability. |
 | [IMG_9681.jpg](gallery/IMG_9681.jpg) | A collage pairing an Axios “dots” card with a chat-style panel about evidence limits and checks. |
-| [IMG_9682.jpg](gallery/IMG_9682.jpg) | A Grounded DI LLC post mentioning @harvey, “all-pass” benchmarks, and a claimed 501/501 public audit. |
+| [IMG_9682.jpg](gallery/IMG_9682.jpg) | A Grounded DI LLC post mentioning @harvey, “all-pass” benchmarks, and [Grounded DI’s 501/501 local criterion audit](https://github.com/Grounded-DI/briefwise-di-performance-on-harvey-lab-benchmark-audit). |
 | [IMG_9683.jpg](gallery/IMG_9683.jpg) | A source card attributing 83/83 and 501/501 benchmark claims to Grounded DI LLC. |
 | [IMG_9684.jpg](gallery/IMG_9684.jpg) | A “Grounded DI OS” post with visible product language and a partially obscured workflow excerpt. |
 | [IMG_9685.jpg](gallery/IMG_9685.jpg) | A social-feed screenshot with an accounting-task card and a reply about legal-AI progress. |
