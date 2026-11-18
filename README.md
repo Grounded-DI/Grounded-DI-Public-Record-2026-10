@@ -26,7 +26,7 @@ The [October 14 public-record update](updates/2026-10-14/README.md) preserves se
 
 **Why the Argon audit is public:** Grounded DI had no commercial desire to publish it. Gemini itself recommended that Mark post it. Publication context supplied by founder Mark S. Weinstein.
 
-The [October 18 update](updates/2026-10-18/README.md) preserves five public-post screenshots and two illustrated reports: a toy-castle image-preservation audit and a Gemini Argon model-behavior incident report. Each item has a source-specific caption or report summary, with original filenames, preserved bytes, and SHA-256 records. The update distinguishes reported replay results, observed output inconsistencies, and findings that remain untested or unresolved.
+The [October 18 update](updates/2026-10-18/README.md) preserves five public-post screenshots and two illustrated reports: a toy-castle image-preservation audit and a Gemini Argon model-behavior incident report. Original files, captions, and SHA-256 records accompany the reports. The update identifies which checks ran and which findings remain unresolved.
 
 ## Scope and editorial notes
 
@@ -36,18 +36,9 @@ inside a screenshot are attributed to the visible source; they are not treated
 as independently verified performance results, endorsements, publication
 records, patent grants, or deployment evidence.
 
-The fifteen source files are distinct by SHA-256. Their original names,
-dimensions, byte sizes, available Library timestamps, and hashes
-are recorded in the manifest. The relative times shown inside social-post
-screenshots are preserved as displayed and are not converted into exact
-publication dates.
+The manifest records the fifteen distinct image files with their original names, dimensions, byte sizes, available timestamps, and SHA-256 hashes. Relative times in screenshots remain as displayed.
 
-All eight source files from the initial publication batch remain unchanged.
-The four-image addition records interoperability, legal output controls, and
-public discussion of exact-output determinism. IMG_9684.jpg includes visible language about
-“proprietary deterministic controls”; it is archived as an already-public
-post screenshot, with that language attributed to the source and without
-reproducing any additional or hidden proprietary material.
+The four-image addition records interoperability, legal output controls, and public discussion of exact-output determinism. IMG_9684.jpg preserves already-public language about “proprietary deterministic controls” in its source screenshot.
 
 ## Contents
 
@@ -72,6 +63,6 @@ reproducing any additional or hidden proprietary material.
 
 ## October 19 — AuthorWise redacted writing-sample diagnostic report
 
-The [October 19 update](updates/2026-10-19/README.md) preserves a five-page redacted AuthorWise DI² presentation derivative. It retains supplied unlabeled writing-sample shapes and aggregate exploratory results while withholding feature-axis labels, identifying legends, contribution values, decoder tables, raw writing, and source paths. The report remains explicitly inconclusive and makes no authorship, human-versus-AI, forensic, legal, employment, academic, publication-use, external-verification, or fresh-execution claim.
+The [October 19 update](updates/2026-10-19/README.md) preserves a five-page redacted AuthorWise DI² presentation derivative with unlabeled writing-sample shapes and aggregate exploratory results. The report is inconclusive. It withholds raw writing, feature labels, identifying legends, and decoder material, and it does not identify an author or classify a sample as human or AI.
 
 -Grounded DI LLC - "Precision doesn't infer. It traces." 
